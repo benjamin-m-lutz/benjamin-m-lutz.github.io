@@ -1,0 +1,21 @@
+html {
+	background: url('../images/wtf.jpg') gray;
+}
+
+body {
+	font-family: Impact;
+	background-color: gray;
+	border: 3px black groove;
+	border-radius: 27px;
+	margin: 50px 500px 50px 500px;
+	padding: 20px;
+}
+
+h1, h2 {
+	color: red;
+}
+
+p {
+	color: black;
+}
+
